@@ -1,6 +1,6 @@
 module.exports = {
     app: {
-        token: 'MTAzMDc2Mzk3MDE0OTIyNDQ1OQ.GOR58G.AUbUl49zG0Lo8nw6CbICqmabDavWjKuLdMNcco',
+        token: 'xxxseuToken',
         playing: '@raysson.js | Tocando musica!',
         global: true,
     },
